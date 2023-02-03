@@ -1,0 +1,15 @@
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\bin\Debug\net7.0\Example002_hellouser.exe
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\bin\Debug\net7.0\Example002_hellouser.deps.json
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\bin\Debug\net7.0\Example002_hellouser.runtimeconfig.json
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\bin\Debug\net7.0\Example002_hellouser.dll
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\bin\Debug\net7.0\Example002_hellouser.pdb
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\obj\Debug\net7.0\Example002_hellouser.csproj.AssemblyReference.cache
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\obj\Debug\net7.0\Example002_hellouser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\obj\Debug\net7.0\Example002_hellouser.AssemblyInfoInputs.cache
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\obj\Debug\net7.0\Example002_hellouser.AssemblyInfo.cs
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\obj\Debug\net7.0\Example002_hellouser.csproj.CoreCompileInputs.cache
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\obj\Debug\net7.0\Example002_hellouser.dll
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\obj\Debug\net7.0\refint\Example002_hellouser.dll
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\obj\Debug\net7.0\Example002_hellouser.pdb
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\obj\Debug\net7.0\Example002_hellouser.genruntimeconfig.cache
+C:\Users\o-res\OneDrive\Рабочий стол\C#\Example\Example002_hellouser\obj\Debug\net7.0\ref\Example002_hellouser.dll
